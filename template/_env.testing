@@ -1,0 +1,3 @@
+NODE_ENV=production
+VUE_APP_TITLE=Vue (testing)
+VUE_APP_API_URL=http://api.server.cactus.100tal.com

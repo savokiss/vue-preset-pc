@@ -2,9 +2,8 @@
   "useTaobaoRegistry": true,
   "packageManager": "yarn",
   "useConfigFiles": true,
-  "router": true,
-  "routerHistoryMode": true,
-  "vuex": true,
+  "router": false,
+  "vuex": false,
   "cssPreprocessor": "node-sass",
   "plugins": {
     "@vue/cli-plugin-babel": {},
