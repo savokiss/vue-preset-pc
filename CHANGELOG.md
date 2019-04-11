@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.2.1](https://git.100tal.com/jituan_kaifangpingtai_mofaxiao_ms-fe/vue-preset-pc/compare/v0.2.0...v0.2.1) (2019-04-11)
+
+
+### Bug Fixes
+
+* env files && sass files && preset.json ([a909d79](https://git.100tal.com/jituan_kaifangpingtai_mofaxiao_ms-fe/vue-preset-pc/commits/a909d79))
+
+
+
 # 0.2.0 (2019-04-11)
 
 
