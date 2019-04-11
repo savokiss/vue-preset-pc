@@ -1,6 +1,6 @@
 {
   "name": "vue-preset-pc",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "MS vue preset for pc",
   "main": "prompts.js",
   "scripts": {
