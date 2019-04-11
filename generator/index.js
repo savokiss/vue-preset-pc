@@ -5,7 +5,9 @@ module.exports = (api, options, rootOptions) => {
   api.extendPackage({
     dependencies: {
       'axios': '^0.18.0',
-      'js-cookie': '^2.2.0'
+      'js-cookie': '^2.2.0',
+      'vue-router': '^3.0.3',
+      'vuex': '^3.1.0'
     },
     devDependencies: {
       'gulp': '3.9.1',
