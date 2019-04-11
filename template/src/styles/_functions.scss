@@ -1,0 +1,12 @@
+// 自动计算 1080p 为 vw
+@function vw($px, $isFontSize: 0) {
+  @if $isFontSize == 1 {
+    @return $px * 1px;
+  }
+  @return $px / 1920 * 100vw;
+}
+
+// 自动计算 750 屏幕的 rem
+@function rem($px) {
+  @return ($px / 32) * 1rem;
+}

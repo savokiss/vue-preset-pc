@@ -1,0 +1,29 @@
+{
+  "name": "vue-preset-pc",
+  "version": "0.1.0",
+  "description": "MS vue preset for pc",
+  "main": "prompts.js",
+  "scripts": {
+    "release": "standard-version"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.100tal.com:jituan_kaifangpingtai_mofaxiao_ms-fe/vue-preset-pc.git"
+  },
+  "keywords": [
+    "vue",
+    "preset",
+    "ms"
+  ],
+  "author": "savokiss",
+  "license": "ISC",
+  "devDependencies": {
+    "cz-conventional-changelog": "2.1.0",
+    "standard-version": "^5.0.2"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}
