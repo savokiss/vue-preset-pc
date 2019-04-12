@@ -9,16 +9,12 @@
       </router-link>
     </div>
     <router-view />
-    <Home @click="onClick"/>
   </div>
 </template>
 
 <script>
 export default {
   methods: {
-    onClick (v) {
-
-    }
   }
 }
 </script>
