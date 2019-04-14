@@ -1,2 +1,2 @@
 VUE_APP_TITLE=Vue (dev)
-VUE_APP_API_URL=http://api.server.cactus.100tal.com
+VUE_APP_API_URL=http://your.development.server

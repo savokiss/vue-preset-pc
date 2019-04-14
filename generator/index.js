@@ -11,8 +11,6 @@ module.exports = (api, options, rootOptions) => {
       'normalize.css': '^8.0.1'
     },
     devDependencies: {
-      'gulp': '3.9.1',
-      'gulp-ssh': '^0.7.0',
       'git-cz': '^2.0.0',
       'compression-webpack-plugin': '^2.0.0'
     },
@@ -21,8 +19,7 @@ module.exports = (api, options, rootOptions) => {
       'build:testing': 'vue-cli-service build --mode testing',
       'build:staging': 'vue-cli-service build --mode staging',
       'build:production': 'vue-cli-service build',
-      'commit': 'git add . && npx git-cz',
-      'deploy:testing': 'npx gulp upload:testing'
+      'commit': 'git add . && npx git-cz'
     },
     config: {
       commitizen: {
