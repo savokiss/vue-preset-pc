@@ -1,4 +1,4 @@
-# 魔法校前端 Preset PC
+# Vue Project Preset PC
 
 ## Usage
 
