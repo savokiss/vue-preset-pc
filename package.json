@@ -15,7 +15,7 @@
   "license": "ISC",
   "devDependencies": {
     "cz-conventional-changelog": "2.1.0",
-    "standard-version": "^5.0.2"
+    "standard-version": "^8.0.1"
   },
   "config": {
     "commitizen": {
