@@ -25,7 +25,7 @@ vue create --preset savokiss/vue-preset-pc <project-name>
 
 ## CHANGELOG
 
-[CHANGELOG](./CHANGELOG)
+[CHANGELOG](./CHANGELOG.md)
 
 ## Add Plugin
 
